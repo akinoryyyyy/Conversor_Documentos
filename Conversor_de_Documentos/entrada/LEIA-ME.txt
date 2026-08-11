@@ -1,0 +1,3 @@
+Coloque aqui o arquivo que você quer converter (.pdf, .docx, .xlsx, .txt ou .csv).
+Depois rode o programa normalmente (mvn compile exec:java).
+O arquivo convertido vai aparecer na pasta "saida".
